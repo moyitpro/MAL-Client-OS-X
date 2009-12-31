@@ -1,0 +1,1 @@
+#tag ToolbarBegin Toolbar PrefsToolbar	Begin ToolButton tblGeneral		Caption = "General"		HelpTag = ""		Style = 2		Pushed = True		Icon = 1334943514	End	Begin ToolButton tblMisc		Caption = "Misc"		HelpTag = ""		Style = 2		Icon = 1633996395	EndEnd#tag EndToolbar
